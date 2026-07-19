@@ -65,6 +65,8 @@ That's it — the assistant does the rest.
 
 With a free Apple ID the app runs for **7 days**, then you just press **▶ Run** in Xcode again to renew it. A paid Apple Developer account ($99/year) makes each build last a full year.
 
+Don't want to remember that every week? The [`keep-alive`](keep-alive) folder has an optional one-time setup that renews the app for you automatically in the background, forever.
+
 ## Privacy
 
 100% offline. No account, no servers, no analytics, no ads. Nothing ever leaves your phone.
